@@ -45,7 +45,7 @@ uses GPL2 and later license you are free to add, and advance the plugin's functi
 fit in respect of gpl2 conditions. And if you are a fellow developer, please feel free to give your comments propositions
 about this plugin.
 
-Hopefully this plugin will fulfil all your needs, if not please contact me by email and I will customise the plugin to your exact requirements.
+Hopefully this plugin will fulfil all your needs, if not please contact me and I will customise the plugin to your exact requirements.
 
 *** Installation ***
 * You can either install this plugin directly from wordpress list of plugin or just downlod it, unzip it then place it in
@@ -64,18 +64,17 @@ it in the page you want while putting it between brackets, in this form [generat
 *** About Me ***
 I am a software engineer and also a software developer. I aim to develop software solutions to solve problems. I am familiar
 with many programming languages and technologies but I currently work in php and web development.
-[Hire me for all your Wordpress needs]().
 
 *** Frequently Asked Questions ***
 * How to display the contact form?
 After creating the custom form using the centuryOne Form Builder, a shortcode (century_form_x) is generated.
 You need to copy this short code and put it, between ([]) in the page you want to have this custom form.[century_form_x]
 
-* I get a message to say that the message could not be sent?
+* I get an error saying that the email could not be sent?
 If such message is shown. you need to contact your web host and ask him to allow sending emails from the server.
 
 * I don't receive the email?
 Please check the junk folder if you don't see the email in your mailbox
 
 * Can I have multiple forms in the same page?
-This version does not allow the use of multiple forms in the same page
+This version does not allow the use of multiple forms in the same page. But upcoming ones will.
