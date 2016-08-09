@@ -1,9 +1,8 @@
 *** Standard light weight Form Builder ***
-Contributors:
-Donate link:
+Contributors: sabushmais
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl.html
-Tags: simple,
+Tags: simple, form builder, wordpress from, reservation form, booking form
 Tested on: wordpress 4.5.3
 
 
